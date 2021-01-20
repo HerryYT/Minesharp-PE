@@ -1,0 +1,13 @@
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.exe
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.deps.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.runtimeconfig.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.runtimeconfig.dev.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\netcoreapp3.1\MCPEServer.pdb
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.csprojAssemblyReference.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.AssemblyInfoInputs.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.AssemblyInfo.cs
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.csproj.CoreCompileInputs.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.pdb
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\netcoreapp3.1\MCPEServer.genruntimeconfig.cache

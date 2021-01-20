@@ -1,0 +1,16 @@
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.csprojAssemblyReference.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.AssemblyInfoInputs.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.AssemblyInfo.cs
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.csproj.CoreCompileInputs.cache
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.exe
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.deps.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.runtimeconfig.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.runtimeconfig.dev.json
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\ref\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\bin\Debug\net5.0\MCPEServer.pdb
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\ref\MCPEServer.dll
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.pdb
+C:\Users\Enrico\source\repos\MCPEServer\MCPEServer\obj\Debug\net5.0\MCPEServer.genruntimeconfig.cache
